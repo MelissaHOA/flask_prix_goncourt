@@ -1,0 +1,30 @@
+EVALUTATION :
+
+Looping diagrame mld
+creer un user en + du root sur phpmyadmin
+
+diagramme de classe --> typage static
+utilisation mypy
+.... 
+Creer en dur toutes les donné de la 1ere selection
+
+mise à jour pour les autres votes
+_____________________________________
+
+dernier tour : livre vote l'auréat
+_____________
+
+chaque jury un login mdp et vote  // option
+__________________________
+structure de données : plusieurs auteurs sur plusieurs présentation/année et plusieurs livres
+
+Un seul auteur par livre 
+_____________________
+ 16 livre départ
+8 suivant 
+final 4
+_____________________
+nombre de vote pour chaque livre // à la fin
+__________________________
+Garder un historique des résultats
+________________________________
